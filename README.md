@@ -1,7 +1,7 @@
 # Dilithium Implementation
 #### Cyprien JORANT
 
-This project is a rust implementation of the dilithium project made and published on  [GitHub by pq-crystals](https://github.com/pq-crystals/dilithium). The aim is to create a code the make a demonstration of the dilithium signature algorithm. 
+This project is a rust implementation of the dilithium project made by Argyle Software and published on [the pq-crystals GitHub](https://github.com/pq-crystals/dilithium). The aim is to create a code the make a demonstration of the dilithium signature algorithm. 
 
 
 # Tutorial
